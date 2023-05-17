@@ -1,5 +1,5 @@
 
-import rotatescreen
+import rotatescreen 
 import keyboard
 
 screen = rotatescreen.get_primary_display()
